@@ -1,3 +1,5 @@
+![seoul_용량적게_](https://github.com/wooseung0124/wooseung0124/assets/141887866/ec3d4ccf-a9c5-458a-b819-f3379b999016)
+
 ### 👋 안녕하세요, 신입 개발자 이승우입니다.
 ### :sparkles: Frontend :sparkles: </br>
 HTML, CSS, Javascript, Ajax, React
